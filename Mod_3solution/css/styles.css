@@ -1,0 +1,26 @@
+body{
+	background-color: white;
+	font-size: 16px;
+}
+
+#header-nav{
+	background-color: yellow;
+	border-radius: 0;
+	border: 0;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a{
+	color: blue;
+	text-align: center;
+}
+#nav-list a:hover{
+	background: pink;
+}
+
+p{
+	padding: 10px;
+	background-color: gray;
+}
